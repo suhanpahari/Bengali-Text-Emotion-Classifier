@@ -38,8 +38,9 @@ Below is the table of performance metrics for each model evaluated on the valida
 
 ## GUI Snapshot
 
-![Screenshot 2024-07-28 021817](https://github.com/user-attachments/assets/1033c422-1156-4b43-90d0-db1317028fff)
+![Screenshot 2024-07-28 021927](https://github.com/user-attachments/assets/b6d3c3de-e0f8-42d8-b690-9e1a75f9eeac)
 
+<br>
 
 ![image](https://github.com/user-attachments/assets/4ac7b537-2b5b-4ab2-8739-c549d95acfd7)
 
