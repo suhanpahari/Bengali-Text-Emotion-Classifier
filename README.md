@@ -10,8 +10,8 @@ The primary goal of this project is to classify emotions into categories such as
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Bengali-Text-Emotion-classification.git
-    cd Bengali-Text-Emotion-classification
+    git clone https://github.com/suhanpahari/Bengali-Text-Emotion-Classifier.git
+    cd Bengali-Text-Emotion-Classifier
     ```
 
 2. Install the required packages:
